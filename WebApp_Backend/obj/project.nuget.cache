@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HDMSJU/Q5Es=",
+  "success": true,
+  "projectFilePath": "/Users/boaz.gilon/projects/IdentityCourseUdemy/WebApp_Backend/WebApp_Backend.csproj",
+  "expectedPackageFiles": [
+    "/Users/boaz.gilon/.nuget/packages/microsoft.aspnetcore.openapi/9.0.0/microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "/Users/boaz.gilon/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
